@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Event APP' in project 'Event APP' (no dependencies)
